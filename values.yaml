@@ -1,0 +1,8 @@
+appName: api
+
+image:
+  repository: hantmei/api_test
+  tag: latest
+
+service:
+  nodePort: 30100
