@@ -2,7 +2,7 @@ appName: api
 
 image:
   repository: hantmei/api_test
-  tag: v2.1.0
+  tag: v3.0.0
 
 service:
   nodePort: 30100
